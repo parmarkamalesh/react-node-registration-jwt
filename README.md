@@ -35,5 +35,5 @@ This is a full-stack user authentication project built using:
 
 ---
 
-## 📂 Folder Structure
+
 
